@@ -14,15 +14,15 @@ import re
 import langchain
  
 #st.set_page_config(layout="wide") 
-col1, col2, col3 = st.columns(3 , gap="large")
+#col1, col2, col3 = st.columns(3 , gap="large")
 #with col1:
- #   st.title(":blue[MedSmart]")
+st.title(":blue[MedSmart]")
 #with col2:
-image = Image.open('im2.jpeg')
-st.image(
-        image,
-        width=300,
-    )
+#image = Image.open('im2.jpeg')
+#st.image(
+ #       image,
+ #       width=300,
+ #   )
 
 co = cohere.Client('GGM7uhPK5DTgPtMweS0IbHK2rkxLBmAJ2cmoGA57')
 prompt1 = st.text_input('What are the symptoms of the patient?  (*Please type the correct spelling of the symptom**)')
@@ -35,7 +35,7 @@ if prompt1:
         response = co.generate(
             model = 'command-nightly', #xlarge #medium #small
             prompt = f"user: Suggest prescription medications for these symptoms: {prompt1}\nTLDR:", # 
-            max_tokens=200,
+            max_tokens=300,
             temperature=0.9,
             k=0,
             p=0.75,
