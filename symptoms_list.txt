@@ -1,3 +1,12 @@
+Chest pain
+Nausea
+Vomiting
+Diarrhea
+Sore throat
+Runny nose
+Stuffy nose
+Body aches
+Rash
 Head
 Forehead
 Scalp
@@ -11,6 +20,38 @@ Neck
 Chest
 Stomach
 Back
+Alterations in sense of taste or smell
+Changes in menstrual cycle or sexual function
+Impotence or decreased libido
+Poor concentration or memory loss
+Mood swings or irritability
+Irregular heartbeat or palpitations
+Rapid heartbeat or chest pain
+Difficulty breathing or wheezing
+Coughing up blood or abnormal discharge
+Difficulty urinating
+Bloating or abdominal pain
+Blood in urine or stool
+Changes in blood pressure
+Breathing difficulties or wheezing
+Coughing up blood
+Double vision or blindness
+Easy bruising or bleeding
+Fever or chills
+Heart palpitations or irregular heartbeat
+Loss of consciousness
+Seizures
+Swollen or tender joints
+Tingling or numbness in limbs
+Difficulty speaking or hearing
+Skin rashes or itching
+Weight changes
+Loss of energy or fatigue
+Difficulty swallowing or eating
+Mood swings or depression
+Difficulty sleeping or insomnia
+Alterations in taste or smell
+Irritability or anxiety
 Abdomen
 Torso
 Shoulders
@@ -26,27 +67,6 @@ Ankles
 Feet
 Toes
 Ovaries
-Uterus
-Fallopian tubes
-Vagina
-Testicles
-Penis
-Prostate gland
-Fever
-Cough
-Headache
-Fatigue
-Muscle aches
-Shortness of breath
-Chest pain
-Nausea
-Vomiting
-Diarrhea
-Sore throat
-Runny nose
-Stuffy nose
-Body aches
-Rash
 Joint pain
 Abdominal pain
 Loss of appetite
@@ -76,6 +96,18 @@ Trouble swallowing
 Trouble seeing
 Trouble hearing
 Tremors
+Uterus
+Fallopian tubes
+Vagina
+Testicles
+Penis
+Prostate gland
+Fever
+Cough
+Headache
+Fatigue
+Muscle aches
+Shortness of breath
 Urinary incontinence
 Urinary frequency
 Weight gain or loss
@@ -237,35 +269,3 @@ Paranoia or fearfulness
 Excessive thirst or hunger
 Excessive sweating or sweating at night
 Itching or rashes
-Alterations in sense of taste or smell
-Changes in menstrual cycle or sexual function
-Impotence or decreased libido
-Poor concentration or memory loss
-Mood swings or irritability
-Irregular heartbeat or palpitations
-Rapid heartbeat or chest pain
-Difficulty breathing or wheezing
-Coughing up blood or abnormal discharge
-Difficulty urinating
-Bloating or abdominal pain
-Blood in urine or stool
-Changes in blood pressure
-Breathing difficulties or wheezing
-Coughing up blood
-Double vision or blindness
-Easy bruising or bleeding
-Fever or chills
-Heart palpitations or irregular heartbeat
-Loss of consciousness
-Seizures
-Swollen or tender joints
-Tingling or numbness in limbs
-Difficulty speaking or hearing
-Skin rashes or itching
-Weight changes
-Loss of energy or fatigue
-Difficulty swallowing or eating
-Mood swings or depression
-Difficulty sleeping or insomnia
-Alterations in taste or smell
-Irritability or anxiety
