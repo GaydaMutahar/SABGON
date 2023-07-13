@@ -24,7 +24,7 @@ st.image(
        width=300,
   )
 
-co = cohere.Client('GGM7uhPK5DTgPtMweS0IbHK2rkxLBmAJ2cmoGA57')
+co = cohere.Client('YOUR API KEY')
 prompt1 = st.text_input('What are the symptoms of the patient?  (*Please type the correct spelling of the symptom**)')
 but1 = st.button('Find a medicine')
 with open('symptoms_list.txt', 'r') as file:
